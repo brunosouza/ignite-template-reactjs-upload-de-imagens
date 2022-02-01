@@ -30,6 +30,7 @@ export function ModalViewImage({
       <ModalOverlay />
       <ModalContent
         maxWidth={900}
+        w="auto"
         backgroundColor="pGray.800"
         borderBottomRadius="6px"
       >
